@@ -1,2 +1,2 @@
 # myPython
-Programas e anotações referentes a linguagem Python
+Programs and notes about my studies with Python.
